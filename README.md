@@ -37,7 +37,7 @@ I'm skilled in various technologies, including:
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![MySQL](https://skillicons.dev/icons?i=mysql) 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) 
-![SQLite](hts://skillicons.dev/icons?i=sqlite) 
+![SQLite](https://skillicons.dev/icons?i=sqlite) 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Redis](https://skillicons.dev/icons?i=redis) 
@@ -46,7 +46,7 @@ I'm skilled in various technologies, including:
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Figma](https://skillicons.dev/icons?i=figma) 
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
-![Heroku](https://skillicons.dev/icons?i=horoku)
+![Heroku](https://skillicons.dev/icons?i=heroku)
 ![discord](https://skillicons.dev/icons?i=discord)
 ![Bots](https://skillicons.dev/icons?i=bots)
 
