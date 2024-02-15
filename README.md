@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed islam Chelbeb 👋
 
-![Profile Views](https://page-views.glitch.me/badge?page_id=mochelbeb.visitor-badge)
+
 [![GitHub Followers](https://img.shields.io/github/followers/mochelbeb?label=Follow&style=social)](https://github.com/mochelbeb)
 [![Wakatime](https://wakatime.com/badge/user/018b8b02-b2d2-489b-9a14-24722459f4a6/project/018b8b0a-1a8b-4d15-ba42-372cffb8505a.svg)](https://wakatime.com/@018b8b0a-1a8b-4d15-ba42-372cffb8505a)
 
