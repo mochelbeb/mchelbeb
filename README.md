@@ -9,8 +9,8 @@
 
 🚀 Full stack engineer passionate about code and continuous learning.
 
-- 🎓 Bachelor's Degree in Computer Science - Graduated in 2023.
-- 💻 Currently diving deep into **Angular/NextJs**.
+- 🎓 Master’s Degree in Intelligent Information Systems - Expected Graduation in 2025
+- 💻 Currently diving deep into **NextJs/React**.
 - 📚 Reading **Microservice Architecture** to enhance my skills.
 - 📆 2024 Goal: Striving to expand my skill set and work diligently to unlock my full potential.
 - 😊 My Interest: I'm a movie enthusiast, and I enjoy spending my free time watching films and exploring the world of cinema.
